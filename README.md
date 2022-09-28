@@ -14,4 +14,4 @@ In `messy_max_solution.js` you can find his solution. While the code functions p
 
 Read the original challenge we gave Messy Max in `CHALLENGE.md` and his solution in `messy_max_solution.js`. You may inspect the results of his code by running `node messy_max_solution.js {any integer value}` in your CLI.
 
-Create a new file `my_solution.js` where you show how Messy Max's code may be improved, while the return value remains the same. Make a pull request with your solution included and, optionally, a `REMARKS.md` with an explanation for the choices you made.
+Create a new file `my_solution.js` where you show how Messy Max's code may be improved, while the return value remains the same. ZIP the project folder with your solution included and, optionally, a `REMARKS.md` with an explanation for the choices you made. You may send your solution to jurriaan@eitje.app and abel@eitje.app.
